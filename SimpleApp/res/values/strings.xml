@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleTestApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">Text 1:</string>
+    <string name="text2">Text 2:</string>
+    <string name="compBtn">Compare</string>
+    <string name="sumBtn">Plus</string>
+    <string name="result">Result: </string>
+    <string name="wifi_text_label">Wifi:</string>
+    <string name="bluetooth_text_label">Bluetooth:</string>
+    <string name="gps_text_label">GPS:</string>
+    <string name="nfc_text_label">NFC:</string>
+
+</resources>

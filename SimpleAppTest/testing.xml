@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+
+	<test name="functionality">
+		<classes>
+			<class name="com.tute.tests.FuncTest" />
+		</classes>
+	</test>
+	<test name="network & notif">
+		<classes>
+			<class name="com.tute.tests.NetworkTest" />
+			<!-- <class name="com.tute.tests.NotificationTest" />-->
+		</classes>
+	</test>
+
+</suite>
